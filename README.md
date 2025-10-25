@@ -8,7 +8,7 @@
 
 #### 📫 How to reach me:
 
-* Email: moh.wajidlatif@gmail.com
+* Email: mwajlatif@gmail.com
 * [LinkedIn](https://www.linkedin.com/in/mwlatif)
 * [GitHub](https://github.com/PeaceMoreS)
 
