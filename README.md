@@ -19,7 +19,7 @@ Currently focused on **mastering business, investments, and sales**, while apply
 ---
 
 ### 💡 My Vision  
-To build and scale ventures that empower people — combining technology, strategy, and creativity to solve real problems.
+To build and scale ventures that empower people. Combining technology, strategy, and creativity to solve real problems.
 
 ---
 
