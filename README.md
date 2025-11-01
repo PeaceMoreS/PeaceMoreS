@@ -1,18 +1,47 @@
-### 👋 Hi, I'm @PeaceMoreS
+# 👋 Hey there, I'm Wajid Latif (@PeaceMoreS)
 
-#### 👀 I'm interested in Cloud Computing!
+💼 **Entrepreneur | Business Strategist | AWS Developer Associate | Python Enthusiast**
 
-#### 🌱 I'm currently learning AWS (Amazon Web Services)
+---
 
-#### 💞️ I'm looking to collaborate on a multitude of projects related to AWS or Python.
+### 👀 About Me  
+I’m passionate about combining **technology and business** to build impactful, scalable solutions.  
+Currently focused on **mastering business, investments, and sales**, while applying my background in **cloud computing and software development** to real-world ventures.
 
-#### 📫 How to reach me:
+---
 
-* Email: mwajlatif@gmail.com
-* [LinkedIn](https://www.linkedin.com/in/mwlatif)
-* [GitHub](https://github.com/PeaceMoreS)
+### 🚀 What I’m Working On  
+- Developing entrepreneurial projects that merge **tech and business innovation**  
+- Exploring **investment strategies** and **startup growth models**  
+- Strengthening skills in **sales, marketing, and business operations**  
+- Continuing to expand my technical foundation in **AWS** and **Python**
 
-<!---
-PeaceMoreS/PeaceMoreS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 💡 My Vision  
+To build and scale ventures that empower people — combining technology, strategy, and creativity to solve real problems.
+
+---
+
+### 🤝 Let’s Collaborate  
+Open to collaborating on:  
+- Business or startup projects  
+- Cloud-based solutions  
+- Investment and market research initiatives  
+- Growth or sales strategy discussions  
+
+---
+
+### 📫 Get in Touch  
+📧 **Email:** [mwajlatif@gmail.com](mailto:mwajlatif@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/mwajlatif](https://linkedin.com/in/mwajlatif)  
+💻 **GitHub:** [github.com/PeaceMoreS](https://github.com/PeaceMoreS)  
+
+---
+
+### ⚡ Fun Fact  
+I believe success is built on **continuous learning, bold ideas, and strong execution**.  
+
+---
+
+⭐️ _“Think big, start small, and scale fast.”_
