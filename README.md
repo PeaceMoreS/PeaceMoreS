@@ -34,7 +34,7 @@ Open to collaborating on:
 
 ### 📫 Get in Touch  
 📧 **Email:** [mwajlatif@gmail.com](mailto:mwajlatif@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/mwajlatif](https://linkedin.com/in/mwajlatif)  
+💼 **LinkedIn:** [linkedin.com/in/mwlatif](https://linkedin.com/in/mwlatif)  
 💻 **GitHub:** [github.com/PeaceMoreS](https://github.com/PeaceMoreS)  
 
 ---
